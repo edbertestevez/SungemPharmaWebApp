@@ -1,0 +1,220 @@
+.top-med{
+  width: 100%;
+  margin-bottom: 20px; 
+}
+
+.med-sales{
+  float: right; 
+  width: 100%; 
+  margin-bottom: 10px;
+}
+/**
+.graph-box-two{
+  width: 100%;
+}
+
+.graph-box-last{
+  width: 100%;
+}**/
+
+@media screen and (max-width: 900px){
+  .column_seven{
+  display: none;
+}
+
+
+.hidden-menu{
+  display: inline;
+}
+
+.hidden-sub-menu{
+  display: inline-block;
+}
+
+.exhidden-menu{
+  background-color: white;
+   box-shadow: 0 0px 0px rgba(0,0,0,0.1), 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.crossmenu{
+  display: inline;
+}
+
+.menu-subs{
+  display: none;
+}
+
+.add-marg{
+  margin-bottom: 40px;
+}
+
+
+}
+@media screen and (max-width: 850px){
+	.overview_tab{
+		width: 50%;
+		margin-bottom: 10px;
+	}
+
+.column_six{
+  display: none;
+}
+}
+
+@media screen and (max-width: 760px){
+.column_five{
+  display: none;
+}
+}
+
+@media screen and (max-width: 710px){
+	.dashboard_three_boxes{
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+.notif-image{
+  margin-top: 10px;
+  width: 15%;
+  height: 100%;
+  float: left;
+}
+
+.notif-value{
+  width: 70%;
+  height: 100%;
+  padding-top: 15px;
+  float: left;
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 90px;
+ 
+}	
+}
+
+@media screen and (max-width: 680px){
+
+.column_four{
+  display: none;
+}
+}
+
+@media screen and (max-width: 620px){
+	.pend_left_side{
+		width: 50%;
+		margin-bottom: 10px; 
+	}
+}
+
+@media screen and (max-width: 600px){
+	.notif-image{
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+
+.column_three{
+  display: none;
+}
+
+.notif-value{
+  width: 60%;
+  height: 100%;
+  padding-top: 15px;
+  float: left;
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 90px;
+
+
+}
+}
+
+@media screen and (max-width: 500px){
+	
+.graph_dash_title{
+	width: 94%;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+}
+
+@media screen and (max-width: 450px){
+	.overview_tab{
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+  .column_two{
+  display: none;
+}
+
+.column_one{
+}
+
+}
+@media screen and (max-width: 400px){
+.notif-image{
+  width: 25%;
+  height: 100%;
+  float: left;
+}
+
+.notif-value{
+  width: 50%;
+  height: 100%;
+  padding-top: 15px;
+  float: left;
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 90px;
+ 
+}
+
+
+
+
+}
+
+@media screen and (max-width: 380px){
+	.pend_left_side{
+		width: 100%;
+		margin-bottom: 10px; 
+	}
+
+  
+}
+
+@media screen and (max-width: 330px){
+.notif-image{
+  width: 30%;
+ 
+  height: 100%;
+  float: left;
+}
+
+.notif-value{
+  width: 40%;
+  height: 100%;
+  padding-top: 15px;
+  float: left;
+  color: black;
+  font-size: 35px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 90px;
+ 
+}
+
+
+}
